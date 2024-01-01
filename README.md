@@ -2,14 +2,18 @@
 
 ## DevOps Engineer | Dev-Sec-Magic-Ops | Lisp, Clojure & Mojo Enthusiast 🌟
 
-Based in Germany 🇩🇪, I am a DevOps Engineer with a unique blend of development, security, and operations expertise (Dev-Sec-Magic-Ops). I'm on an exciting journey mastering Lisp, Clojure, and the groundbreaking language Mojo.
+Based in Germany 🇩🇪, I am a DevOps Engineer with a strong focus on the operations aspect, blending development, security, and operations in a unique way (Dev-Sec-Magic-Ops). My journey includes mastering Lisp, Clojure, and the innovative language Mojo for enhanced operational solutions.
 
 ### About Me
 
-🔭 Focusing on expanding my DevOps expertise with Kubernetes, Ansible, and cutting-edge automation techniques.
+🔭 Enhancing operations with advanced skills in Kubernetes, Ansible, and automation techniques.
+
 🌱 Diving deep into Lisp for its intellectual legacy, Clojure for its functional programming prowess, and Mojo for its innovative approach in programming.
-👯 Open to collaboration on projects that push the envelope in DevOps and automation.
-💬 Happy to chat about anything from Kubernetes, Ansible, and the latest trends in software development.
+
+👯 Keen on collaborating on projects with a strong focus on operational excellence and innovation.
+
+💬 Let's discuss anything related to systems operations, automation, Kubernetes, Ansible, and contemporary operational challenges.
+
 📫 How to reach me: You will find a way!
 
 ### My Skills
@@ -21,6 +25,7 @@ Based in Germany 🇩🇪, I am a DevOps Engineer with a unique blend of develop
 - 🔧 Ansible: Simplifying complex automation.
 - 🔒 Security Best Practices
 - 🔄 CI/CD Pipelines
+- 🛠️ System Administration and Troubleshooting
 
 ### What I'm Learning
 
