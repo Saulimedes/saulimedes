@@ -1,41 +1,20 @@
-# Hello, I'm Paul - Saulimedes - Becker 🧙‍♂️
+## DevOps Engineer | Dev-Sec-Magic-Ops | 
 
-## DevOps Engineer | Dev-Sec-Magic-Ops | Lisp, Clojure & Mojo Enthusiast 🌟
+📍 Germany 🇩🇪 ![Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaulimedes1212%2Fhit-counter) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 
-Based in Germany 🇩🇪, I am a DevOps Engineer with a strong focus on the operations aspect, blending development, security, and operations in a unique way (Dev-Sec-Magic-Ops). My journey includes mastering Lisp, Clojure, and the innovative language Mojo for enhanced operational solutions.
+### Skills
 
-### About Me
+- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue),![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+- Cloud: ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white),![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white), ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black) and ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+- Container orchestration with ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white), ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+- Automation with ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white), ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+- Security, CI/CD, System Admin
 
-🔭 Enhancing operations with advanced skills in Kubernetes, Ansible, and automation techniques.
+### Connect
 
-🌱 Diving deep into Lisp for its intellectual legacy, Clojure for its functional programming prowess, and Mojo for its innovative approach in programming.
+- Gaming: ![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white), ![PSN](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white) and ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white): Saulimedes
+- 🚀 Enjoy coding marathons.
+- FIXME
 
-👯 Keen on collaborating on projects with a strong focus on operational excellence and innovation.
-
-💬 Let's discuss anything related to systems operations, automation, Kubernetes, Ansible, and contemporary operational challenges.
-
-📫 How to reach me: You will find a way!
-
-### My Skills
-
-- 🐍 Python
-- 🐚 Shell Scripting
-- ☁️ Cloud Services (AWS, Azure, GCP)
-- 🐳 Docker and Kubernetes: Orchestrating containers for scalable solutions.
-- 🔧 Ansible: Simplifying complex automation.
-- 🔒 Security Best Practices
-- 🔄 CI/CD Pipelines
-- 🛠️ System Administration and Troubleshooting
-
-### What I'm Learning
-
-- 🧙‍♂️ Lisp: The classical language with deep roots in AI and complex algorithm development.
-- 🎩 Clojure: Adding a touch of elegance to functional programming.
-- 🪄 Mojo: A pioneering language combining the familiarity of Python with the capabilities of systems programming and metaprogramming.
-
-### Let's Connect
-
-- 🎮 Gaming: Find me on Xbox and PSN as Saulimedes.
-- 🚀 Fueled by Red Bull for those marathon coding sessions.
-
-Feel free to check out my repositories and reach out for a chat or collaboration!
+### Stats
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=saulimedes&theme=vue)
