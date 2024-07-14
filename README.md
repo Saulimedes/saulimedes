@@ -8,7 +8,6 @@
 <a href="https://www.xing.com/profile/Paul_Becker67"><img src="https://img.shields.io/badge/Xing-green?style=for-the-badge&logo=Xing&logoColor=white" alt="Xing Badge"></a>
 <a href="https://www.x.com/saulimedes"><img src="https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"></a>
 <a href="https://stackoverflow.com/users/8302409/paul-becker"><img src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"></a>
-<a href="https://www.chess.com/member/saulimedes"><img src="https://img.shields.io/badge/Chess-lightgreen?style=for-the-badge&logo=Chess.com&logoColor=black" alt="LinkedIn Badge"></a
 </p>
 
 <p align="center">
