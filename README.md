@@ -43,10 +43,10 @@
 </p>
 
 <center><h2>About Me</h2></center>
-<table style="width: 100%; border: none;  border-collapse: collapse;">
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; padding-right: 20px; border: none;">
-      <ul>
+      <ul style="margin-top: 0;">
         <li>🧙‍♂️ DevSec-Magic-Ops Engineer</li>
         <li>📚 Avid reader always improving my skills</li>
         <li>☁️ Passionate about cloud infrastructure</li>
@@ -60,4 +60,3 @@
     </td>
   </tr>
 </table>
-
