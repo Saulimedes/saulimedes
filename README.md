@@ -43,7 +43,7 @@
 </p>
 
 <center><h2>About Me</h2></center>
-<table style="width: 100%; border: none;">
+<table style="width: 100%; border: none;  border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; padding-right: 20px; border: none;">
       <ul>
