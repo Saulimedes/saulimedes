@@ -45,7 +45,7 @@
 <center><h2>About Me</h2></center>
 <table style="width: 100%; border: none;">
   <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
+    <td style="vertical-align: top; padding-right: 20px; border: none;">
       <ul>
         <li>🧙‍♂️ DevSec-Magic-Ops Engineer</li>
         <li>📚 Avid reader always improving my skills</li>
@@ -55,8 +55,8 @@
         <li>🔄 If it can be automated, I'm all in!</li>
       </ul>
     </td>
-    <td style="vertical-align: top;">
-      <a href="https://www.buymeacoffee.com/saulimedes"><img src="./assets/coffee.gif" alt="Buy Me a Coffee Badge" width="250"></a>
+    <td style="vertical-align: top; border: none;">
+      <a href="https://www.buymeacoffee.com/saulimedes"><img src="./assets/coffee.gif" alt="Buy Me a Coffee Badge" width="300"></a>
     </td>
   </tr>
 </table>
