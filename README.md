@@ -1,10 +1,11 @@
-<p align="center"><img src="./assets/banner.png" width="250"/></p>
+<p align="center"><img src="./assets/banner.png" width="320"/></p>
 
 <p align="center">
 <center><h1>Wait... how did you end up here?</h1></center>
 <p align="center">
-<a href="https://www.becker.kiwi"><img src="https://img.shields.io/badge/becker.kiwi-teal?style=for-the-badge&logo=about.me&logoColor=black" alt="LinkedIn Badge"></a>
+<a href="https://www.becker.kiwi"><img src="https://img.shields.io/badge/becker.kiwi-teal?style=for-the-badge&logo=about.me&logoColor=black" alt="Website Badge"></a>
 <a href="https://gitlab.com/paulbecker"><img src="https://img.shields.io/badge/gitlab-darkorange?style=for-the-badge&logo=gitlab&logoColor=red" alt="Gitlab Badge"></a>
+<a href="https://dev.to/saulimedes"><img src="https://img.shields.io/badge/dev.to-grey?style=for-the-badge&logo=dev.to" alt="Dev.to Badge"></a>
 <a href="https://www.linkedin.com/in/paulbecker"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://www.xing.com/profile/Paul_Becker67"><img src="https://img.shields.io/badge/Xing-green?style=for-the-badge&logo=Xing&logoColor=white" alt="Xing Badge"></a>
 <a href="https://www.x.com/saulimedes"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"></a>
@@ -43,20 +44,16 @@
 </p>
 
 <center><h2>About Me</h2></center>
-<div style="display: flex; align-items: flex-start; width: 100%; gap: 20px;">
-  <div style="flex: 1;">
-    <ul style="margin-top: 0; padding-left: 20px;">
-      <li>🧙‍♂️ DevSec-Magic-Ops Engineer</li>
-      <li>📚 Avid reader always improving my skills</li>
-      <li>☁️ Passionate about cloud infrastructure</li>
-      <li>🤖 Automation enthusiast, especially with Ansible</li>
-      <li>🙅‍♂️ Hate dealing with people, but love automating tasks</li>
-      <li>🔄 If it can be automated, I'm all in!</li>
-    </ul>
-  </div>
-  <div style="min-width: 150px;">
-    <a href="https://www.buymeacoffee.com/saulimedes">
-      <img src="./assets/coffee.gif" alt="Buy Me a Coffee Badge" style="width: 300px; display: block;">
-    </a>
-  </div>
-</div>
+<ul>
+  <li>🧙‍♂️ DevSec-Magic-Ops Engineer</li>
+  <li>📚 Avid reader always improving my skills</li>
+  <li>☁️ Passionate about cloud infrastructure</li>
+  <li>🙅‍♂️ Hate dealing with people, but love automating tasks</li>
+  <li>🔄 If it can be automated, I'm all in!</li>
+</ul>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/saulimedes">
+    <img src="./assets/coffee.gif" alt="Buy Me a Coffee Badge" style="width: 200px;">
+  </a>
+</p>
