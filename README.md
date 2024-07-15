@@ -43,19 +43,21 @@
 </p>
 
 <center><h2>About Me</h2></center>
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div style="flex: 1;">
-    <ul>
-      <li>🧙‍♂️ DevSec-Magic-Ops Engineer</li>
-      <li>📚 Avid reader always improving my skills</li>
-      <li>☁️ Passionate about cloud infrastructure</li>
-      <li>🤖 Automation enthusiast, especially with Ansible</li>
-      <li>🙅‍♂️ Hate dealing with people, but love automating tasks</li>
-      <li>🔄 If it can be automated, I'm all in!</li>
-    </ul>
-  </div>
-  <div style="flex-shrink: 0; margin-left: 20px;">
-    <a href="https://www.buymeacoffee.com/saulimedes"><img src="./assets/coffee.gif" alt="Buy Me a Coffee Badge" width="250"></a>
-  </div>
-</div>
+<table style="width: 100%; border: none;">
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <ul>
+        <li>🧙‍♂️ DevSec-Magic-Ops Engineer</li>
+        <li>📚 Avid reader always improving my skills</li>
+        <li>☁️ Passionate about cloud infrastructure</li>
+        <li>🤖 Automation enthusiast, especially with Ansible</li>
+        <li>🙅‍♂️ Hate dealing with people, but love automating tasks</li>
+        <li>🔄 If it can be automated, I'm all in!</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <a href="https://www.buymeacoffee.com/saulimedes"><img src="./assets/coffee.gif" alt="Buy Me a Coffee Badge" width="250"></a>
+    </td>
+  </tr>
+</table>
 
