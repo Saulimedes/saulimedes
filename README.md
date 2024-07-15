@@ -56,7 +56,7 @@
   </div>
   <div style="min-width: 150px;">
     <a href="https://www.buymeacoffee.com/saulimedes">
-      <img src="./assets/coffee.gif" alt="Buy Me a Coffee Badge" style="max-width: 100%; display: block;">
+      <img src="./assets/coffee.gif" alt="Buy Me a Coffee Badge" style="width: 300px; display: block;">
     </a>
   </div>
 </div>
