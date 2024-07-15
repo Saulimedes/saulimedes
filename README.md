@@ -41,3 +41,21 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
 </p>
+
+<center><h2>About Me</h2></center>
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <ul>
+      <li>🧙‍♂️ DevSec-Magic-Ops Engineer</li>
+      <li>📚 Avid reader always improving my skills</li>
+      <li>☁️ Passionate about cloud infrastructure</li>
+      <li>🤖 Automation enthusiast, especially with Ansible</li>
+      <li>🙅‍♂️ Hate dealing with people, but love automating tasks</li>
+      <li>🔄 If it can be automated, I'm all in!</li>
+    </ul>
+  </div>
+  <div>
+    <a href="https://www.buymeacoffee.com/saulimedes"><img src="./assets/coffee.gif" alt="Buy Me a Coffee Badge"></a>
+  </div>
+</div>
