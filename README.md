@@ -43,8 +43,7 @@
 </p>
 
 <center><h2>About Me</h2></center>
-
-<div style="display: flex; align-items: flex-start; width: 100%;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%;">
   <div style="flex-grow: 1; padding-right: 20px;">
     <ul style="margin-top: 0;">
       <li>🧙‍♂️ DevSec-Magic-Ops Engineer</li>
@@ -55,7 +54,8 @@
       <li>🔄 If it can be automated, I'm all in!</li>
     </ul>
   </div>
-  <div style="flex-shrink: 0;">
+  <div style="flex-shrink: 0; min-width: 150px;">
     <a href="https://www.buymeacoffee.com/saulimedes"><img src="./assets/coffee.gif" alt="Buy Me a Coffee Badge" width="150"></a>
   </div>
 </div>
+
