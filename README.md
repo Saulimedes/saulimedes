@@ -43,9 +43,9 @@
 </p>
 
 <center><h2>About Me</h2></center>
-<div style="display: flex; align-items: flex-start; width: 100%;">
-  <div style="flex-grow: 1;">
-    <ul style="margin-top: 0;">
+<div style="display: flex; align-items: flex-start; width: 100%; gap: 20px;">
+  <div style="flex: 1;">
+    <ul style="margin-top: 0; padding-left: 20px;">
       <li>🧙‍♂️ DevSec-Magic-Ops Engineer</li>
       <li>📚 Avid reader always improving my skills</li>
       <li>☁️ Passionate about cloud infrastructure</li>
@@ -55,7 +55,8 @@
     </ul>
   </div>
   <div style="min-width: 150px;">
-    <a href="https://www.buymeacoffee.com/saulimedes"><img src="./assets/coffee.gif" alt="Buy Me a Coffee Badge" style="max-width: 100%;"></a>
+    <a href="https://www.buymeacoffee.com/saulimedes">
+      <img src="./assets/coffee.gif" alt="Buy Me a Coffee Badge" style="max-width: 100%; display: block;">
+    </a>
   </div>
 </div>
-
