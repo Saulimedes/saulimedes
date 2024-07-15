@@ -56,6 +56,6 @@
     </ul>
   </div>
   <div>
-    <a href="https://www.buymeacoffee.com/saulimedes"><img src="./assets/coffee.gif" alt="Buy Me a Coffee Badge"></a>
+    <a href="https://www.buymeacoffee.com/saulimedes"><img src="./assets/coffee.gif" alt="Buy Me a Coffee Badge" width="250"></a>
   </div>
 </div>
