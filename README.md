@@ -4,7 +4,7 @@
 <center><h1>Wait... how did you end up here?</h1></center>
 <p align="center">
 <a href="https://www.becker.kiwi"><img src="https://img.shields.io/badge/becker.kiwi-teal?style=for-the-badge&logo=about.me&logoColor=black" alt="Website Badge"></a>
-<a href="https://gitlab.com/paulbecker"><img src="https://img.shields.io/badge/gitlab-darkorange?style=for-the-badge&logo=gitlab&logoColor=red" alt="Gitlab Badge"></a>
+<a href="https://gitlab.com/saulimedes"><img src="https://img.shields.io/badge/gitlab-darkorange?style=for-the-badge&logo=gitlab&logoColor=red" alt="Gitlab Badge"></a>
 <a href="https://dev.to/saulimedes"><img src="https://img.shields.io/badge/dev.to-grey?style=for-the-badge&logo=dev.to" alt="Dev.to Badge"></a>
 <a href="https://www.linkedin.com/in/paulbecker"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://www.xing.com/profile/Paul_Becker67"><img src="https://img.shields.io/badge/Xing-green?style=for-the-badge&logo=Xing&logoColor=white" alt="Xing Badge"></a>
