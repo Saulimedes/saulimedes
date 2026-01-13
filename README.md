@@ -12,11 +12,6 @@
 <a href="https://stackoverflow.com/users/8302409/paul-becker"><img src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"></a>
 </p>
 
-
-<p align="center">
- <img  alt="Saulimedes's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Saulimedes?cardType=level-alternate&theme=graywhite&fontFamily=Pixelify%20Sans&preferLogin=true" /> 
-</p>
-
 <center><h2>Languages and Tools</h2></center>
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
