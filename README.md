@@ -14,9 +14,7 @@
 
 
 <p align="center">
-  <img height="70%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=saulimedes&show_icons=true&count_private=true&theme=shadow_blue&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="70%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=saulimedes&layout=compact&hide_border=true&theme=shadow_blue&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <br>
+ <img  alt="Saulimedes's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Saulimedes?cardType=level-alternate&theme=graywhite&fontFamily=Pixelify%20Sans&preferLogin=true" /> 
 </p>
 
 <center><h2>Languages and Tools</h2></center>
