@@ -3,12 +3,18 @@
 <p align="center">
 <center><h1>Wait... how did you end up here?</h1></center>
 <p align="center">
-  <a href="https://www.becker.kiwi"><img src="https://img.shields.io/badge/becker.kiwi-teal?style=for-the-badge&logo=about.me&logoColor=black" alt="Website Badge"></a>
+  <a href="https://bsky.app/profile/saulimedes.bsky.social">
+  <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"></a>
+  <a href="https://x.com/saulimedes">
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://gitlab.com/saulimedes"><img src="https://img.shields.io/badge/gitlab-darkorange?style=for-the-badge&logo=gitlab&logoColor=red" alt="Gitlab Badge"></a>
+  <a href="https://codeberg.org/saulimedes">
+  <img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg"></a>
   <a href="https://dev.to/saulimedes"><img src="https://img.shields.io/badge/dev.to-grey?style=for-the-badge&logo=dev.to" alt="Dev.to Badge"></a>
-  <a href="https://www.linkedin.com/in/paulbecker"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/paulbecker">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white" alt="LinkedIn">
+</a>
   <a href="https://www.xing.com/profile/Paul_Becker67"><img src="https://img.shields.io/badge/Xing-green?style=for-the-badge&logo=Xing&logoColor=white" alt="Xing Badge"></a>
-  <a href="https://www.x.com/saulimedes"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"></a>
   <a href="https://stackoverflow.com/users/8302409/paul-becker"><img src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"></a>
 </p>
 
