@@ -6,7 +6,7 @@
   <a href="https://bsky.app/profile/saulimedes.bsky.social">
   <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"></a>
   <a href="https://x.com/saulimedes">
-  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://gitlab.com/saulimedes"><img src="https://img.shields.io/badge/gitlab-darkorange?style=for-the-badge&logo=gitlab&logoColor=red" alt="Gitlab Badge"></a>
   <a href="https://codeberg.org/saulimedes">
   <img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg"></a>
@@ -42,6 +42,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="OCI" alt="OCI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulimedes&theme=graywhite&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
 </p>
 
 <center><h2>About Me</h2></center>
