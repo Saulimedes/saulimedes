@@ -18,7 +18,7 @@
 
 <center><h2>Languages and Tools</h2></center>
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-plain.svg" title="Nix" alt="Nix" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gentoo/gentoo-plain.svg" title="Gentoo" alt="Nix" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/clojure/clojure-original.svg" title="Clojure" alt="Clojure" width="40" height="40"/>&nbsp;
