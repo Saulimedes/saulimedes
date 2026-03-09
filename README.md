@@ -44,15 +44,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulimedes&theme=graywhite&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
-</p>
-
 <center><h2>About Me</h2></center>
 <ul>
   <li>🧙‍♂️ DevSec-Magic-Ops Engineer</li>
   <li>📚 Avid reader always improving my skills</li>
   <li>☁️ Passionate about cloud infrastructure</li>
+  <li>🦇 I'm Batman.</li>
   <li>🙅‍♂️ Hate dealing with people, but love automating tasks</li>
   <li>🔄 If it can be automated, I'm all in!</li>
 </ul>
