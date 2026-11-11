@@ -39,14 +39,14 @@
 
 <center><h2>About Me</h2></center>
 <ul>
-  <li>🧙‍♂️ DevSec-Magic-Ops Engineer</li>
-  <li>📚 Avid reader always improving my skills</li>
-  <li>☁️ Passionate about cloud infrastructure</li>
-  <li>🦇 I'm Batman.</li>
-  <li>🙅‍♂️ Hate dealing with people, but love automating tasks</li>
+  <li>🧙‍♂️ DevSec-Magic-Ops Engineer.</li>
+  <li>📚 Avid reader always improving my skills.</li>
+  <li>☁️ Passionate about cloud infrastructure.</li>
+  <li>🦇 I'm Batman!</li>
+  <li>🙅‍♂️ Hate dealing with people, but love automating tasks.</li>
   <li>🔄 If it can be automated, I'm all in!</li>
 </ul>
 
 <p align="center">
-  <img src="./assets/frog-typing.gif" alt="A frog typing on a ThinkPad" width="300">
+  <img src="./assets/frog-typing.gif" alt="A frog typing on a ThinkPad" width="224">
 </p>
