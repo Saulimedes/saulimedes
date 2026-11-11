@@ -48,5 +48,5 @@
 </ul>
 
 <p align="center">
-  <img src="./assets/frog-typing.gif" alt="A frog typing on a ThinkPad" width="224">
+  <img src="./assets/frog-typing.gif" alt="Apu the frog typing on a ThinkPad" width="224">
 </p>
