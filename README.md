@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/frog-typing.gif" alt="Apu the frog typing on a ThinkPad" width="224">
+  <a href="https://www.buymeacoffee.com/saulimedes">
+    <img src="./assets/frog-typing.gif" alt="Apu the frog typing on a ThinkPad (Buy me a coffee)" width="224">
+  </a>
 </p>
 
 <p align="center">
